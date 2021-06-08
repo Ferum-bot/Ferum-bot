@@ -1,11 +1,23 @@
-### Hi there 👋
+## Hi there 👋
 
+### Actually, my name is Matvey 👉👈
+
+
+- 🔭 Now working on something completely new...
+- 🤓 Creating enterprise Android and IOS apps.
+- 🐸 Admire Docker and like Kubernetes. 
+- 🐒 Django forever and ever.
+
+
+Telegram: @dr_matjo
+
+Gitlab: https://gitlab.com/ghfdhuf85429532
 <!--
 **Ferum-bot/Ferum-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Now working on something completely new...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
