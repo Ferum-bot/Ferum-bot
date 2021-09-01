@@ -12,7 +12,7 @@
        
 - 🐸 Admire Docker and like Kubernetes.
        
-- 🐒 Django forever and ever.
+- ☘️ Spring forever and ever.
 
 
 Telegram: @dr_matjo
