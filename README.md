@@ -9,11 +9,11 @@
       
 - 🔭 Now working on something completely new...
        
-- 🤓 Creating enterprise Android and IOS apps.
+- 🤓 Creating enterprise Services, Android and IOS apps.
        
 - 🐸 Admire Docker and like Kubernetes.
        
-- ☘️ Spring forever and ever.
+- ☘️ Kotlin forever and ever.
 
 Telegram: @ma_popovv
 
