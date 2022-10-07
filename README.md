@@ -15,6 +15,8 @@
        
 - ☘️ Kotlin forever and ever.
 
+- 👽 Solidity fan. 
+
 Telegram: @ma_popovv
 
 Gitlab: https://gitlab.com/ghfdhuf85429532
